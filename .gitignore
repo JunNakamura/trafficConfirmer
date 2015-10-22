@@ -1,0 +1,8 @@
+.classpath
+target/
+.settings/
+.idea/
+.project
+logs/
+trafficConfirmer.iml
+dependency-reduced-pom.xml
